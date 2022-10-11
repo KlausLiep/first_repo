@@ -1,2 +1,1 @@
-# first_repo
-My first repo!
+Read Me!
